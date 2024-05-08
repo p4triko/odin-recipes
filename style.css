@@ -1,0 +1,38 @@
+/* General Styling */
+body{
+  font-family: Arial, 'Times New Roman';
+  background-color: rgb(255, 166, 131);
+}
+
+
+/* Index styling */
+.container{
+  text-align: center;
+}
+
+.recipe-odin{
+  font-size: 40px;
+}
+
+.recipe-link{
+  text-decoration: none;
+  font-size: 20px;
+  cursor: pointer;
+  color: rgb(110, 110, 41);
+}
+
+.pointer{
+  text-align: center;
+}
+
+.point-image{
+  width: 60px;
+  height: auto;
+}
+
+/* Recipe page styling */
+
+.toast-picture{
+  width: 410px;
+  height: auto;
+}
